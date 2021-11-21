@@ -1,3 +1,8 @@
+.vs
+out
+.vscode
+build
+
 # Prerequisites
 *.d
 
